@@ -24,3 +24,14 @@ Input:
 output:
 1
 
+
+./zokrates compile -i ~/zkp-sc/hdsnark/hdsnark.code
+
+./zokrates compute-witness -a 5
+
+./zokrates setup
+
+./zokrates export-verifier
+
+./zokrates generate-proof
+
