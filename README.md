@@ -3,7 +3,7 @@
 ```sh
 cd $HOME
 
-git clone https://github.com/FZQA/Zokrates-zy.git
+git clone https://github.com/FZQA/Zokrates-zy.git zkp-sc
 ```
 
 ### 1. configure libsnark
